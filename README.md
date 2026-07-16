@@ -32,7 +32,6 @@ Or grab a platform archive directly from <https://vew.sh>.
 
 ## Releases
 
-- Latest: [**v0.9.3**](./v0.9.3.md)
 - All versions: [Releases tab](https://github.com/YawLabs/vew-releases/releases) · [Atom feed](https://github.com/YawLabs/vew-releases/releases.atom)
 
 Each version's notes live in `vX.Y.Z.md` at the repo root and are also attached to the matching GitHub Release, so RSS readers and `Watch → Custom → Releases` both work.
